@@ -66,7 +66,14 @@ The inference runs entirely on the ESP32-CAM (TinyML), without requiring cloud s
 ---
 
 ## 📂 Project Structure
-
+```
+object-detection-esp32cam/
+│── src/ # ESP32 source code (Arduino .ino file)
+│── models/ # Edge Impulse exported FOMO model files
+│── images/ # Example results/screenshots
+│── README.md # Project description (this file)
+│── LICENSE # License file
+```
 ---
 
 ## 🚀 Applications
