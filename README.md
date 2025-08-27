@@ -51,7 +51,7 @@ The inference runs entirely on the ESP32-CAM (TinyML), without requiring cloud s
 
 3. **Flashing the ESP32-CAM**
    - Connect ESP32-CAM to your USB breakout board.  
-   - Select **ESP32 Wrover Module** in Arduino IDE.  
+   - Select **AI Thinker ESP32-CAM Module** in Arduino IDE.  
    - Choose the correct COM port.  
    - Upload the sketches from `src/`.
 
