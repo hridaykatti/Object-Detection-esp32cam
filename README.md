@@ -53,7 +53,7 @@ The inference runs entirely on the ESP32-CAM (TinyML), without requiring cloud s
    - Connect ESP32-CAM to your USB breakout board.  
    - Select **ESP32 Wrover Module** in Arduino IDE.  
    - Choose the correct COM port.  
-   - Upload the sketch from `src/object_detection.ino`.
+   - Upload the sketches from `src/`.
 
 4. **Running Inference**
    - Open the **Serial Monitor** (115200 baud).  
